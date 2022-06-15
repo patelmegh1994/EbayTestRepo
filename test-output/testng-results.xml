@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-14T17:19:12Z" name="Suite" finished-at="2022-06-14T17:20:37Z" duration-ms="85289">
+    <groups>
+    </groups>
+    <test started-at="2022-06-14T17:19:12Z" name="Ebay Test" finished-at="2022-06-14T17:20:37Z" duration-ms="85289">
+      <class name="com.ebay.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ebay.qa.testcases.HomePageTest@2b4bac49]" started-at="2022-06-14T17:19:12Z" name="setUp" finished-at="2022-06-14T17:19:18Z" duration-ms="6240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageTitleTest()[pri:1, instance:com.ebay.qa.testcases.HomePageTest@2b4bac49]" started-at="2022-06-14T17:19:18Z" name="verifyHomePageTitleTest" finished-at="2022-06-14T17:19:18Z" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ebay.qa.testcases.HomePageTest@2b4bac49]" started-at="2022-06-14T17:19:18Z" name="tearDown" finished-at="2022-06-14T17:19:18Z" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ebay.qa.testcases.HomePageTest@2b4bac49]" started-at="2022-06-14T17:19:39Z" name="setUp" finished-at="2022-06-14T17:19:43Z" duration-ms="3691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="headerLinkTest()[pri:2, instance:com.ebay.qa.testcases.HomePageTest@2b4bac49]" started-at="2022-06-14T17:19:43Z" name="headerLinkTest" finished-at="2022-06-14T17:19:52Z" duration-ms="8924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ebay.qa.testcases.HomePageTest@2b4bac49]" started-at="2022-06-14T17:19:52Z" name="tearDown" finished-at="2022-06-14T17:19:52Z" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ebay.qa.testcases.HomePageTest@2b4bac49]" started-at="2022-06-14T17:20:07Z" name="setUp" finished-at="2022-06-14T17:20:11Z" duration-ms="3701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="miniCartTest()[pri:3, instance:com.ebay.qa.testcases.HomePageTest@2b4bac49]" started-at="2022-06-14T17:20:11Z" name="miniCartTest" finished-at="2022-06-14T17:20:18Z" duration-ms="7066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- miniCartTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ebay.qa.testcases.HomePageTest@2b4bac49]" started-at="2022-06-14T17:20:18Z" name="tearDown" finished-at="2022-06-14T17:20:18Z" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ebay.qa.testcases.HomePageTest -->
+      <class name="com.ebay.qa.testcases.SearchPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ebay.qa.testcases.SearchPageTest@fd07cbb]" started-at="2022-06-14T17:19:18Z" name="setup" finished-at="2022-06-14T17:19:22Z" duration-ms="4121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verfiySearchPageTitleTest()[pri:1, instance:com.ebay.qa.testcases.SearchPageTest@fd07cbb]" started-at="2022-06-14T17:19:22Z" name="verfiySearchPageTitleTest" finished-at="2022-06-14T17:19:39Z" duration-ms="16641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiySearchPageTitleTest -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.ebay.qa.testcases.SearchPageTest@fd07cbb]" started-at="2022-06-14T17:19:39Z" name="tearDownTest" finished-at="2022-06-14T17:19:39Z" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ebay.qa.testcases.SearchPageTest@fd07cbb]" started-at="2022-06-14T17:19:52Z" name="setup" finished-at="2022-06-14T17:19:56Z" duration-ms="3736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="categoriesTest()[pri:2, instance:com.ebay.qa.testcases.SearchPageTest@fd07cbb]" started-at="2022-06-14T17:19:56Z" name="categoriesTest" finished-at="2022-06-14T17:20:07Z" duration-ms="11164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- categoriesTest -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.ebay.qa.testcases.SearchPageTest@fd07cbb]" started-at="2022-06-14T17:20:07Z" name="tearDownTest" finished-at="2022-06-14T17:20:07Z" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ebay.qa.testcases.SearchPageTest@fd07cbb]" started-at="2022-06-14T17:20:18Z" name="setup" finished-at="2022-06-14T17:20:23Z" duration-ms="5402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="iphoneSearchTest()[pri:3, instance:com.ebay.qa.testcases.SearchPageTest@fd07cbb]" started-at="2022-06-14T17:20:23Z" name="iphoneSearchTest" finished-at="2022-06-14T17:20:37Z" duration-ms="13791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iphoneSearchTest -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.ebay.qa.testcases.SearchPageTest@fd07cbb]" started-at="2022-06-14T17:20:37Z" name="tearDownTest" finished-at="2022-06-14T17:20:37Z" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- com.ebay.qa.testcases.SearchPageTest -->
+    </test> <!-- Ebay Test -->
+  </suite> <!-- Suite -->
+</testng-results>
